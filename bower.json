@@ -1,0 +1,11 @@
+{
+  "name": "s2k",
+  "description": "s2k",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {},
+  "main": [
+    "./css/path.css",
+    "./fonts/*"
+  ]
+}
