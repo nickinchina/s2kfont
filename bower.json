@@ -7,5 +7,14 @@
   "main": [
     "./css/path.css",
     "./fonts/*"
+  ],
+  "ignore": [
+    "*/.*",
+    "*.json",
+    "src",
+    "*.yml",
+    "Gemfile",
+    "Gemfile.lock",
+    "*.md"
   ]
 }
