@@ -1,0 +1,12 @@
+{
+  "name": "s2kfont",
+  "main": "css/path.css",
+  "homepage": "http://github.com/nickinchina/s2kfont",
+  "repository": {
+    "url": "git://github.com/nickinchina/s2kfont.git"
+  },
+  "version": "1.0.0",
+  "devDependencies": {
+  },
+  "license": "MIT"
+}
